@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
-0
+-200.6250000000002
  20
-10
+0
  30
 0
   9
 $EXTMAX
  10
-2950
+3139.97707946637
  20
-3655
+3865.625
  30
 0
   9
@@ -775,9 +775,9 @@ $MAXACTVP
   9
 $PINSBASE
  10
-0
+12.61187324852832
  20
-0
+26.99776317422481
  30
 0
   9
@@ -913,7 +913,7 @@ $EXTNAMES
   9
 $PSVPSCALE
  40
-1
+0.06286291961883275
   9
 $OLESTARTUP
 290
@@ -2263,7 +2263,7 @@ AcDbLayerTableRecord
   2
 CEMENT_WALL_REF
  70
-    1
+    0
  62
     9
   6
@@ -2285,7 +2285,7 @@ AcDbLayerTableRecord
   2
 DIMENSIONS
  70
-    5
+    4
  62
    16
 420
@@ -2309,7 +2309,7 @@ AcDbLayerTableRecord
   2
 INTERIOR_REFERENCE
  70
-    1
+    0
  62
     3
   6
