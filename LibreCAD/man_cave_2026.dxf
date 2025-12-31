@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-STUD_TRACK_LINE
+DIMENSIONS
   9
 $CELTYPE
   6
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-2224.667035713018
+1544.568003372608
  22
-2269.10809283067
+1992.079970594489
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-5301.556696152763
+4405.603250126089
  41
-1.501972386587771
+0.7928994082840237
  42
 50
  43
@@ -2283,6 +2283,30 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
+DIMENSIONS
+ 70
+    0
+ 62
+   96
+420
+32768
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
 INTERIOR_REFERENCE
  70
     0
@@ -2297,7 +2321,7 @@ F
   0
 LAYER
   5
-4C
+4D
 330
 2
 100
@@ -2319,7 +2343,7 @@ F
   0
 LAYER
   5
-4D
+4E
 330
 2
 100
@@ -2329,9 +2353,9 @@ AcDbLayerTableRecord
   2
 STUDS_45
  70
-    1
+    0
  62
-    7
+    2
   6
 CONTINUOUS
 370
@@ -2341,7 +2365,7 @@ F
   0
 LAYER
   5
-4E
+4F
 330
 2
 100
@@ -2377,7 +2401,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-4F
+50
 330
 2
 100
@@ -2461,7 +2485,7 @@ ACAD
   0
 APPID
   5
-50
+51
 330
 9
 100
@@ -2493,7 +2517,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-51
+52
 330
 A
 100
@@ -2617,7 +2641,7 @@ Standard
 289
     3
 340
-4F
+50
   0
 ENDTAB
   0
@@ -2761,7 +2785,7 @@ ENTITIES
   0
 LWPOLYLINE
   5
-52
+53
 100
 AcDbEntity
   8
@@ -2819,7 +2843,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-53
+54
 100
 AcDbEntity
   8
@@ -2869,7 +2893,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-54
+55
 100
 AcDbEntity
   8
@@ -2911,7 +2935,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-55
+56
 100
 AcDbEntity
   8
@@ -2959,6 +2983,538 @@ AcDbPolyline
  20
 68
   0
+LWPOLYLINE
+  5
+57
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+10
+ 20
+10
+ 10
+55
+ 20
+10
+ 10
+55
+ 20
+55
+ 10
+10
+ 20
+55
+  0
+LWPOLYLINE
+  5
+58
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+10
+ 20
+610
+ 10
+55
+ 20
+610
+ 10
+55
+ 20
+655
+ 10
+10
+ 20
+655
+  0
+LWPOLYLINE
+  5
+59
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+10
+ 20
+1210
+ 10
+55
+ 20
+1210
+ 10
+55
+ 20
+1255
+ 10
+10
+ 20
+1255
+  0
+LWPOLYLINE
+  5
+5A
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+10
+ 20
+1810
+ 10
+55
+ 20
+1810
+ 10
+55
+ 20
+1855
+ 10
+10
+ 20
+1855
+  0
+LWPOLYLINE
+  5
+5B
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+10
+ 20
+2410
+ 10
+55
+ 20
+2410
+ 10
+55
+ 20
+2455
+ 10
+10
+ 20
+2455
+  0
+LWPOLYLINE
+  5
+5C
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+10
+ 20
+3010
+ 10
+55
+ 20
+3010
+ 10
+55
+ 20
+3055
+ 10
+10
+ 20
+3055
+  0
+LWPOLYLINE
+  5
+5D
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+10
+ 20
+3610
+ 10
+55
+ 20
+3610
+ 10
+55
+ 20
+3655
+ 10
+10
+ 20
+3655
+  0
+LWPOLYLINE
+  5
+5E
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2950
+ 20
+3655
+ 10
+2905
+ 20
+3655
+ 10
+2905
+ 20
+3610
+ 10
+2950
+ 20
+3610
+  0
+LWPOLYLINE
+  5
+5F
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2950
+ 20
+3055
+ 10
+2905
+ 20
+3055
+ 10
+2905
+ 20
+3010
+ 10
+2950
+ 20
+3010
+  0
+LWPOLYLINE
+  5
+60
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2950
+ 20
+2455
+ 10
+2905
+ 20
+2455
+ 10
+2905
+ 20
+2410
+ 10
+2950
+ 20
+2410
+  0
+LWPOLYLINE
+  5
+61
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2950
+ 20
+1855
+ 10
+2905
+ 20
+1855
+ 10
+2905
+ 20
+1810
+ 10
+2950
+ 20
+1810
+  0
+LWPOLYLINE
+  5
+62
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2950
+ 20
+1255
+ 10
+2905
+ 20
+1255
+ 10
+2905
+ 20
+1210
+ 10
+2950
+ 20
+1210
+  0
+LWPOLYLINE
+  5
+63
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2950
+ 20
+655
+ 10
+2905
+ 20
+655
+ 10
+2905
+ 20
+610
+ 10
+2950
+ 20
+610
+  0
+LWPOLYLINE
+  5
+64
+100
+AcDbEntity
+  8
+STUDS_45
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2950
+ 20
+419
+ 10
+2905
+ 20
+419
+ 10
+2905
+ 20
+374
+ 10
+2950
+ 20
+374
+  0
 ENDSEC
   0
 SECTION
@@ -2991,7 +3547,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-56
+65
 100
 AcDbPlotSettings
   6
